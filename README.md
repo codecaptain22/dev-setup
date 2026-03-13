@@ -4,13 +4,13 @@
 
 **One command to set up your entire developer environment.**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/YOUR_USERNAME/dev-setup/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/chahe-dridi/dev-setup/releases/tag/v1.0.0)
 [![npm](https://img.shields.io/npm/v/dev-setup.svg)](https://www.npmjs.com/package/dev-setup)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org)
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/YOUR_USERNAME/dev-setup/actions)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YOUR_USERNAME/dev-setup/blob/main/docs/contributing.md)
-[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/YOUR_USERNAME/dev-setup)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/chahe-dridi/dev-setup/actions)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/chahe-dridi/dev-setup/blob/main/docs/contributing.md)
+[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/chahe-dridi/dev-setup)
 
 ```bash
 npx dev-setup
@@ -130,8 +130,8 @@ npx dev-setup --category devops
 | Ubuntu / Debian | apt | ✅ Supported |
 | Kali Linux | apt | ✅ Supported |
 | Windows 10/11 | winget | ✅ Supported |
-| Fedora / RHEL | dnf | 🚧 Planned — [contribute!](https://github.com/YOUR_USERNAME/dev-setup/issues) |
-| Arch / Manjaro | pacman | 🚧 Planned — [contribute!](https://github.com/YOUR_USERNAME/dev-setup/issues) |
+| Fedora / RHEL | dnf | 🚧 Planned — [contribute!](https://github.com/chahe-dridi/dev-setup/issues) |
+| Arch / Manjaro | pacman | 🚧 Planned — [contribute!](https://github.com/chahe-dridi/dev-setup/issues) |
 
 ---
 
@@ -189,7 +189,7 @@ npx dev-setup --category devops
 | pytest | Testing | ✅ | ✅ | ✅ | ✅ |
 | Postman | Testing | ✅ | ✅ | ✅ | ❌ |
 
-> Missing a tool? [Open an issue →](https://github.com/YOUR_USERNAME/dev-setup/issues/new/choose)
+> Missing a tool? [Open an issue →](https://github.com/chahe-dridi/dev-setup/issues/new/choose)
 
 ---
 
@@ -273,6 +273,6 @@ MIT — free to use, modify, and distribute.
 
 **If dev-setup saved you time, please ⭐ star the repo — it helps others find it!**
 
-[⭐ Star on GitHub](https://github.com/YOUR_USERNAME/dev-setup) · [🐛 Report a Bug](https://github.com/YOUR_USERNAME/dev-setup/issues/new?template=bug_report.md) · [💡 Request a Tool](https://github.com/YOUR_USERNAME/dev-setup/issues/new?template=new_tool.md)
+[⭐ Star on GitHub](https://github.com/chahe-dridi/dev-setup) · [🐛 Report a Bug](https://github.com/chahe-dridi/dev-setup/issues/new?template=bug_report.md) · [💡 Request a Tool](https://github.com/chahe-dridi/dev-setup/issues/new?template=new_tool.md)
 
 </div>
